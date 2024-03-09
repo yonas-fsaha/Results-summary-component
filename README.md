@@ -59,7 +59,6 @@ As mentioned above, there are many ways to host your project for free. Our recom
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 
-
 ## Create a custom `README.md`
 
 We strongly recommend overwriting this `README.md` with a custom one. 
