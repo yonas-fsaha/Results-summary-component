@@ -61,7 +61,7 @@ As mentioned above, there are many ways to host your project for free. Our recom
 
 ## Create a custom `README.md`
 
-We strongly recommend overwriting this `README.md` with 
+We strongly recommend overwriting this `
 
 ## Submitting your solution
 
